@@ -1,4 +1,4 @@
-## Hi there 🙌🏼 &nbsp; Nice to see you💟
+## Welcome to my page 😊
 
 <!--
 **yerimyo/yerimyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
