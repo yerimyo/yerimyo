@@ -3,5 +3,6 @@
 # Welcome to my page 😊
 
 ## Contact
+![Notion]()
 
 ## Technical Skills
